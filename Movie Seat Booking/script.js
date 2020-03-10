@@ -15,10 +15,6 @@ function updateSelectedCount(){
         [...seats].indexOf(seat));
 
     localStorage.setItem('selectedSeats', JSON.stringify(seatsIndex));
-
-// Map through array
-// Return new array of indexes
-
     const selectedseatscount = selectedseats.length;
     count.innerText = selectedseatscount;
     total.innerText = selectedseatscount * ticketPrice;
