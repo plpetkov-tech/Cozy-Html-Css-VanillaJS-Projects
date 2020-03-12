@@ -82,6 +82,12 @@ select:focus, input:focus, button:focus{
     outline: 0;
 }
 
+.footer{
+    padding-top: 100px;
+    text-align: center;
+    color: var(--primary-color);
+}
+
 @media(max-width: 600px){
     .currency input {
         width: 200px;
