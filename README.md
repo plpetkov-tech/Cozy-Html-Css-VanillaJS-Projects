@@ -23,5 +23,5 @@ In this project as in all projects of this series practiced CSS, and mostly ES6 
 Here worked with Array methods to modify the DOM, Fetch with Await/Async and generate random data which will be used to map,sort,filter and reduce.
 ### 6th project: Landing page with Modal
 This is a typical landing page we see tons of times on a daily basis, but wanted to practice the CSS and Javascript needed to hide and show a Modal window, also the transitions when toggling the nav-bar and modal. 
-### 7th project: Landing page with Modal
+### 7th project: Hangman Game
 This is a Hangman game, made only with HTML CSS and ES6 Javascript, learned more about styling and learned to work with SVG and Lines and Circle to draw the hanging man. Also used Fetch API to call an API to get random words. 
