@@ -27,6 +27,4 @@ This is a typical landing page we see tons of times on a daily basis, but wanted
 This is a Hangman game, made only with HTML CSS and ES6 Javascript, learned more about styling and learned to work with SVG and Lines and Circle to draw the hanging man. Also used Fetch API to call an API to get random words. 
 ### 8th project: Meal Finder App
 This project is so far the one that I most like. Learned a ton of useful Front-End resources. Practiced more CSS media-queries, but the thing I practiced the most in this project is Vanilla Javascript. 
-Used TheMealDB free API https://www.themealdb.com/api.php, Fetch API to get the data, and a LOT of DOM modifying because we want to create our items dynamically.
-
-Is amazing how we complicate our lifes using JQuery and Libaries, I'm not against them, but for example: I wanted to make the scroll effect when I click a meal to scroll to the generated div, and I researched on StackOverflow and Google how to do it. And almost every result included JQuery or 45 lines of code. So in my persistence looking for a Vanilla JS solution, I found out about the Element.scrollIntoView(options); _GAMECHANGING_ , in one line of code I got what I wanted. 
+Used TheMealDB free API https://www.themealdb.com/api.php, Fetch API to get the data, and a LOT of DOM modifying because we want to create our items dynamically after getting the data from the API.
