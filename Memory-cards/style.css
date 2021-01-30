@@ -95,14 +95,13 @@ h1 button {
 }
 #deleteSingleCard {
     content: '\f05e  Delete Card';
-    position: absolute;
+    position: relative;
     font-family: 'Font Awesome 5 Free', Lato, sans-serif;
     font-weight: bold;
     font-size: 16px;
     color: #ddd;
     z-index: 2;
-    left: 300px;
-    top: 305px;
+    left:-22vh;
     outline: none;
     border: none;
     border-radius: 4px;
